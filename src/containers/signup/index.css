@@ -1,0 +1,19 @@
+.sign-up {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: gray;
+  /* margin-top: 50px; */
+  height: 100vh;
+}
+.sign-up > .container {
+  width: 25%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  box-shadow: 3px 3px 5px lightgrey;
+  padding: 30px;
+  background-color: white;
+}
